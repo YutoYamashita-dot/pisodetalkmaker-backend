@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/*.ts": {
+      "runtime": "nodejs20.x",
+      "region": "hnd1",
+      "memory": 1024
+    }
+  }
+}
